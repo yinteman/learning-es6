@@ -1,4 +1,4 @@
-import './class/setAndMap'
+import './class/leterator'
 {
 let test1= ('a1a2a3').match(/a\d/g);
 let test2= ('a1a2a3').match(/a\d/gy);
